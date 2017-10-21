@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "library(jsonlite)\nlibrary(dplyr)\nlibrary(ggplot2)\n\njsonfile <- read_json(\"output.json\", simplifyVector = TRUE)\n\n\nplotStreaks <-function(team){\n  modo <-\n  jsonfile %>%\n    filter(awayteam == team | hometeam == team) %>% \n    mutate(modowin = ifelse(hometeam == team & homescore > awayscore, 1,\n                            ifelse(awayteam == team & awayscore > homescore, 1, 0)\n                            ),\n           game_no = 1:n()\n           )\n  \n  plot(modo$game_no, modo$modowin)\n}\n\nplotStreaks(\"MODO\")\nplotStreaks(\"VIK\")\nplotStreaks(\"MIK\")\nplotStreaks(\"IFB\")\nplotStreaks(\"PAN\")\nplotStreaks(\"BIK\")\nplotStreaks(\"TIK\")\n",
+    "created" : 1508619927002.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2943673650",
+    "id" : "7E84FAF9",
+    "lastKnownWriteTime" : 4321272056,
+    "last_content_update" : 1508620721549,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "marks" : "<:8,0\n>:17,0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

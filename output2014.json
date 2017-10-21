@@ -1,0 +1,2186 @@
+[
+    {
+        "hometeam": "TIK",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "VIT",
+        "homescore": "2",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "IFB",
+        "homescore": "6",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "AIS",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "AHC",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "SSK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "IKO",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "BIK",
+        "homescore": "2",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "MIF",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "AIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "VIK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "KAR",
+        "homescore": "5",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "AHC",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "AIS",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "RBK",
+        "homescore": "0",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "IKO",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "TIK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "IFB",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "VIK",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "BIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "AIK",
+        "homescore": "6",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "KAR",
+        "homescore": "2",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "VIT",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "RBK",
+        "homescore": "6",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "AIS",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "TIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "AHC",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "MIK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "IFB",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "KAR",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "AIK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "VIK",
+        "homescore": "0",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "BIK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "SSK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "VIT",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "IFB",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "TIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "IKO",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "MIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "VIK",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "VIT",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "BIK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "AIK",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "MIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "KAR",
+        "homescore": "0",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "IFB",
+        "homescore": "5",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "BIK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "RBK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "VIK",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "SSK",
+        "homescore": "6",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "AIK",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "MIF",
+        "homescore": "0",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "AHC",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "VIT",
+        "homescore": "0",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "AIS",
+        "homescore": "0",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "KAR",
+        "homescore": "0",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "VIT",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "KAR",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "VIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "MIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "IFB",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "BIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "IKO",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "AIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "BIK",
+        "homescore": "6",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "IFB",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "KAR",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "MIK",
+        "homescore": "5",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "AIS",
+        "homescore": "6",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "IKO",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "AHC",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "SSK",
+        "homescore": "0",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "VIK",
+        "homescore": "1",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "VIT",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "MIF",
+        "homescore": "0",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "KAR",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "MIK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "AIK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "RBK",
+        "homescore": "0",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "VIK",
+        "homescore": "2",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "IKO",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "IFB",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "AIS",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "TIK",
+        "homescore": "4",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "VIT",
+        "homescore": "0",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "BIK",
+        "homescore": "4",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "VIK",
+        "homescore": "2",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "VIT",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "KAR",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "AIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "MIF",
+        "homescore": "4",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "TIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "SSK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "RBK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "IFB",
+        "homescore": "0",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "AHC",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "BIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "KAR",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "VIT",
+        "homescore": "4",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "AIK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "VIK",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "IFB",
+        "homescore": "5",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "IKO",
+        "homescore": "0",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "TIK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "AIS",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "RBK",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "VIT",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "AHC",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "VIK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "AIK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "BIK",
+        "homescore": "6",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "AIS",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "IKO",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "TIK",
+        "homescore": "6",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "KAR",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "IFB",
+        "homescore": "5",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "MIK",
+        "homescore": "5",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "AHC",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "AIK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "VIT",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "VIK",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "SSK",
+        "homescore": "1",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "MIK",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "BIK",
+        "homescore": "4",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "IKO",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "MIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "TIK",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "KAR",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "RBK",
+        "homescore": "5",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "IFB",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "VIK",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "RBK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "SSK",
+        "homescore": "0",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "AIK",
+        "homescore": "3",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "MIF",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "VIT",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "AHC",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "SSK",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "IKO",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "VIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "KAR",
+        "homescore": "2",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "BIK",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "AIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "MIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "TIK",
+        "homescore": "5",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "IKO",
+        "homescore": "5",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "AIS",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "KAR",
+        "homescore": "3",
+        "awayscore": "7"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "BIK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "MIK",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "AIK",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "AIS",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "IKO",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "AHC",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "AIS",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "RBK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "SSK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "AIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "VIT",
+        "homescore": "5",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "BIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "MIF",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "VIK",
+        "homescore": "1",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "KAR",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "TIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "AHC",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "RBK",
+        "homescore": "5",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "AIS",
+        "homescore": "8",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "MIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "BIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "VIT",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "SSK",
+        "homescore": "0",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "KAR",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "VIK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "AIK",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "MIF",
+        "homescore": "5",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "TIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "AIS",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "MIK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "KAR",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "SSK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "MIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "AHC",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "BIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "VIT",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "AIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "BIK",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "VIT",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "BIK",
+        "homescore": "2",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "IKO",
+        "homescore": "6",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "AIS",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "MIF",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "TIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "KAR",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "VIK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "AIS",
+        "homescore": "6",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "AIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "SSK",
+        "homescore": "4",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "MIF",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "VIT",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "IFB",
+        "homescore": "3",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "KAR",
+        "homescore": "3",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "VIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "IKO",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "BIK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "VIT",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "IFB",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "KAR",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "BIK",
+        "homescore": "3",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "RBK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "TIK",
+        "homescore": "0",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "AIK",
+        "homescore": "5",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "IKO",
+        "homescore": "6",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "VIT",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "VIK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "AHC",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "SSK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "MIF",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "RBK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "AIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "MIF",
+        "homescore": "6",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "BIK",
+        "homescore": "6",
+        "awayscore": "7"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "VIK",
+        "homescore": "1",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "KAR",
+        "homescore": "0",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "AHC",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "VIT",
+        "homescore": "9",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "TIK",
+        "homescore": "5",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "KAR",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "VIK",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "VIT",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "AIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "BIK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "MIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "MIF",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "TIK",
+        "homescore": "2",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "SSK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "AHC",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "IKO",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "IFB",
+        "homescore": "2",
+        "awayscore": "7"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "AIK",
+        "homescore": "3",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "VIT",
+        "homescore": "6",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "MIF",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "VIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "KAR",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "BIK",
+        "homescore": "6",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "IFB",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "MIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "AIS",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "TIK",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "RBK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "SSK",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "BIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "AHC",
+        "homescore": "4",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "VIT",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "MIF",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "AIK",
+        "homescore": "0",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "VIK",
+        "homescore": "5",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "IFB",
+        "homescore": "5",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "AIS",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "TIK",
+        "homescore": "0",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "IKO",
+        "homescore": "1",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "VIK",
+        "homescore": "0",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "KAR",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "RBK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "AIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "SSK",
+        "homescore": "2",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "VIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "AHC",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "AIS",
+        "homescore": "4",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "VIT",
+        "homescore": "2",
+        "awayscore": "6"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "MIF",
+        "homescore": "1",
+        "awayscore": "7"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "RBK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "BIK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "MIK",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "IFB",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "KAR",
+        "homescore": "3",
+        "awayscore": "5"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "TIK",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "RBK",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "MIK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "AHC",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "AIK",
+        "homescore": "0",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "SSK",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "RBK",
+        "awayteam": "AHC",
+        "homescore": "8",
+        "awayscore": "0"
+    },
+    {
+        "hometeam": "AIK",
+        "awayteam": "VIK",
+        "homescore": "2",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "KAR",
+        "awayteam": "VIT",
+        "homescore": "2",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "IFB",
+        "awayteam": "IKO",
+        "homescore": "3",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "BIK",
+        "awayteam": "MIF",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "TIK",
+        "awayteam": "AIS",
+        "homescore": "1",
+        "awayscore": "2"
+    },
+    {
+        "hometeam": "MIK",
+        "awayteam": "SSK",
+        "homescore": "4",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "MIF",
+        "awayteam": "AIK",
+        "homescore": "3",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "AHC",
+        "awayteam": "MIK",
+        "homescore": "8",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "VIT",
+        "awayteam": "BIK",
+        "homescore": "4",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "IKO",
+        "awayteam": "TIK",
+        "homescore": "3",
+        "awayscore": "4"
+    },
+    {
+        "hometeam": "AIS",
+        "awayteam": "RBK",
+        "homescore": "5",
+        "awayscore": "3"
+    },
+    {
+        "hometeam": "SSK",
+        "awayteam": "KAR",
+        "homescore": "2",
+        "awayscore": "1"
+    },
+    {
+        "hometeam": "VIK",
+        "awayteam": "IFB",
+        "homescore": "5",
+        "awayscore": "3"
+    }
+]

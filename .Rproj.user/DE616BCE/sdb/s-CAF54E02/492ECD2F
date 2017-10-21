@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1508620645765.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "492ECD2F",
+    "lastKnownWriteTime" : 7782326808724111360,
+    "last_content_update" : 1508620645765,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4CBA0B6D",
+        "caption" : "modo",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=modo&cache_key=4CBA0B6D",
+        "displayedObservations" : 52,
+        "environment" : "",
+        "object" : "modo",
+        "preview" : 0,
+        "totalObservations" : 52,
+        "variables" : 6
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
